@@ -13,7 +13,7 @@ import SignupPage from "./pages/SignupPage";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Canopy-Co.">
       <Routes>
         <Route element={<Layout />}>
           <Route index element={<HomePage />} />
