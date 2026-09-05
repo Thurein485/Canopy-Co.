@@ -1,0 +1,38 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F6FAF5"/>
+  <circle cx="1066" cy="108" r="146" fill="#EEC96B" fill-opacity="0.22"/>
+  <circle cx="144" cy="534" r="170" fill="#9DD186" fill-opacity="0.22"/>
+  <rect x="54" y="56" width="1092" height="518" rx="34" fill="white" fill-opacity="0.84" stroke="white" stroke-width="2"/>
+  <rect x="86" y="90" width="84" height="84" rx="24" fill="url(#paint0_linear_22_4)"/>
+  <path d="M126 116C126 108.82 131.82 103 139 103H141C148.18 103 154 108.82 154 116V147H126V116Z" fill="#173D31"/>
+  <path d="M100 147C100 127.67 115.67 112 135 112H139C158.33 112 174 127.67 174 147V151C174 154.314 171.314 157 168 157H106C102.686 157 100 154.314 100 151V147Z" fill="#8DCE78"/>
+  <circle cx="138" cy="108" r="16" fill="#F7E2A1"/>
+  <text fill="#173D31" xml:space="preserve" style="white-space: pre" font-family="Outfit, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="0em"><tspan x="196" y="124.796">Canopy Co.</tspan></text>
+  <text fill="#4E645D" xml:space="preserve" style="white-space: pre" font-family="Manrope, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="0.18em"><tspan x="198" y="153.181">LOCAL PARK REVITALISATION</tspan></text>
+  <text fill="#102C24" xml:space="preserve" style="white-space: pre" font-family="Outfit, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-0.04em"><tspan x="84" y="276.928">A premium multi-page campaign website </tspan><tspan x="84" y="346.928">for a local park transformation.</tspan></text>
+  <text fill="#4E645D" xml:space="preserve" style="white-space: pre" font-family="Manrope, Arial, sans-serif" font-size="28" font-weight="500" letter-spacing="0em"><tspan x="86" y="421.42">Designed for client presentations, public engagement, sponsorship outreach, </tspan><tspan x="86" y="459.42">and a polished civic storytelling experience.</tspan></text>
+  <rect x="83" y="501" width="268" height="58" rx="29" fill="url(#paint1_linear_22_4)"/>
+  <text fill="white" xml:space="preserve" style="white-space: pre" font-family="Manrope, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="0em"><tspan x="124" y="538.318">React + Motion + Strategy</tspan></text>
+  <rect x="744" y="174" width="335" height="276" rx="30" fill="url(#paint2_linear_22_4)"/>
+  <circle cx="1000" cy="236" r="35" fill="#F7E2A1"/>
+  <ellipse cx="904" cy="371.5" rx="154" ry="69.5" fill="#79B269"/>
+  <ellipse cx="1000" cy="420" rx="176" ry="89" fill="#4A7E4D"/>
+  <path d="M925 483L1013 483L973 330L963 330L925 483Z" fill="#D18B57"/>
+  <rect x="781" y="212" width="192" height="84" rx="18" fill="white" fill-opacity="0.88"/>
+  <text fill="#215644" xml:space="preserve" style="white-space: pre" font-family="Manrope, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="0.12em"><tspan x="805" y="239.395">DESIGN GOALS</tspan></text>
+  <text fill="#102C24" xml:space="preserve" style="white-space: pre" font-family="Outfit, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.02em"><tspan x="805" y="274.164">Identity, shade, events, </tspan><tspan x="805" y="301.164">safety, biodiversity</tspan></text>
+  <defs>
+    <linearGradient id="paint0_linear_22_4" x1="93" y1="97" x2="161" y2="164" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173D31"/>
+      <stop offset="1" stop-color="#3A8E6D"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_22_4" x1="83" y1="501" x2="351" y2="559" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#215644"/>
+      <stop offset="1" stop-color="#39906B"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_22_4" x1="744" y1="174" x2="1063" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173D31"/>
+      <stop offset="1" stop-color="#3A8E6D"/>
+    </linearGradient>
+  </defs>
+</svg>
